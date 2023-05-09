@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Testovoe8</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="age">AGE</string>
+    <string name="height">HEIGHT</string>
+    <string name="weight">WEIGHT</string>
+    <string name="begin">BEGIN</string>
+    <string name="man">MAN</string>
+    <string name="settings">SETTINGS</string>
+    <string name="workout">WORKOUT</string>
+    <string name="nutrition">NUTRITION</string>
+    <string name="next">NEXT</string>
+    <string name="today_weight">TODAY WEIGHT</string>
+    <string name="add">ADD</string>
+    <string name="weight_dynamics">WEIGHT DYNAMICS</string>
+    <string name="clear_progress">CLEAR PROGRESS</string>
+    <string name="notifications">NOTIFICATIONS</string>
+</resources>

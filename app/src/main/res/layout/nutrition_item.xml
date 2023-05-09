@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/textViewPriem"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.13"
+        android:padding="16dp"
+        android:textAlignment="center"
+        android:textColor="?attr/colorSecondary"
+        android:textSize="32sp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/imageFood"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:padding="10dp" />
+
+    <TextView
+        android:id="@+id/textViewFood"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="8dp"
+        android:textColor="?attr/colorSecondary"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textViewKcal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.08"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="16dp"
+        android:textAlignment="textEnd"
+        android:textColor="?attr/colorSecondary"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+</LinearLayout>
